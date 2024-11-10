@@ -47,4 +47,12 @@ img {
   }
   div {
     text-align: center;
+
+    p {
+      text-align: center;
+      color: antiquewhite;
+      background-color: rgb(216, 131, 51);
   }
+  
+  }
+
